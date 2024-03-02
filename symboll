@@ -1,0 +1,6 @@
+#2.8У вас есть словарь info. При помощи цикла выведите на экран каждый символ
+# строки «MainValue» на экран.
+
+info = {"MainKey": "MainValue"}
+for sym in info['MainKey']:
+    print(sym)
